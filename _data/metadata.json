@@ -1,0 +1,21 @@
+{
+  "title": "Bloge",
+  "url": "/",
+  "language": "en",
+  "description": "I bloge",
+  "feed": {
+    "subtitle": "I bloge",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "/feed/feed.json"
+  },
+  "author": {
+    "name": "Bloger",
+    "email": "",
+    "url": "/about-me/"
+  }
+}
